@@ -1,6 +1,3 @@
-
-
-    
 </head>
 
 <body>
@@ -156,10 +153,3 @@
         <li><strong>Location:</strong> United States</li>
     </ul>
 </section>
-
-<footer>
-    <p>© 2025 Jay — Engineering Portfolio</p>
-</footer>
-
-</body>
-</html>

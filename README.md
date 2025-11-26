@@ -151,8 +151,8 @@
 <section class="section">
     <h2 class="section-title">Contact</h2>
     <ul>
-        <li><strong>GitHub:</strong> (your username here)</li>
-        <li><strong>Email:</strong> (optional)</li>
+        <li><strong>GitHub:</strong> (JS2028EE)</li>
+        <li><strong>Email:</strong> (jhostins099@icloud.com)</li>
         <li><strong>Location:</strong> United States</li>
     </ul>
 </section>

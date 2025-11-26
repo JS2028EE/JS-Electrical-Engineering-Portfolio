@@ -1,14 +1,13 @@
-# JS-Electrical-Engineering-Portfolio
-Sophomore electrical engineering portfolio - PCB design, coding, physics, and projects.
-Jay — Engineering Portfolio
+    - Engineering Portfolio - Jhostin Sanchez (2028) -
+    
 
 
 
 
+- Aspiring Electrical Engineer | PCB Designer | Problem-Solver
 
-Aspiring Electrical Engineer | PCB Designer | Problem-Solver
+- Sophomore focused on electronics, physics, and hands-on engineering projects.
 
-Sophomore focused on electronics, physics, and hands-on engineering projects.
 
 
 
@@ -17,74 +16,70 @@ Sophomore focused on electronics, physics, and hands-on engineering projects.
 
 
 
+Technical Skills:
 
-Technical Skills
+  - Electronics: KiCad, schematic design, PCB layout, soldering
+  - Circuit Fundamentals: LEDs, resistors, voltage, power distribution
+  - Microcontrollers: Arduino (beginner), basic embedded concepts
+  - Software: Python
+  - Tools: multimeter, continuity testing, breadboards
+  - Engineering Strengths: debugging, iteration, self-directed learning
 
 
 
 
 
-Electronics: KiCad, schematic design, PCB layout, soldering
-Circuit Fundamentals: LEDs, resistors, voltage, power distribution
-Microcontrollers: Arduino (beginner), basic embedded concepts
-Software: Python
-Tools: multimeter, continuity testing, breadboards
-Engineering Strengths: debugging, iteration, self-directed learning
 
 
 
 
 
+Current Goals: 
 
 
 
 
 
-Current Goals
+ - Build more advanced PCBs, including microcontroller-based boards
+ - Develop stronger embedded programming skills
+ - Expand project portfolio for admission to Columbia, MIT, and Georgia Tech
+ - Learn deeper electronics fundamentals (grounding, noise, current flow)
 
 
 
 
 
-Build more advanced PCBs, including microcontroller-based boards
-Develop stronger embedded programming skills
-Expand project portfolio for admission to Columbia, MIT, and Georgia Tech
-Learn deeper electronics fundamentals (grounding, noise, current flow)
 
 
 
 
 
+ 
+Projects:
 
 
 
 
 
-Projects
 
 
+ ~ RGB LED PCB (Inolux IN-PS5TATRGB) ~
 
 
 
 
 
-RGB LED PCB (Inolux IN-PS5TATRGB)
+ - Type: Custom PCB
 
+ - Software: KiCad
 
+ - Skills: Routing, LED current calculations, resistor networks, schematic design, PCB layout, debugging
 
 
 
-Type: Custom PCB
 
-Software: KiCad
 
-Skills: Routing, LED current calculations, resistor networks, schematic design, PCB layout, debugging
-
-
-
-
-
-Overview
+Overview:
 
 
 
@@ -135,7 +130,7 @@ Images
 
 
 
-
+(Add schematic screenshots, PCB layout images, and any photos of prototypes.)
 
 
 
@@ -185,7 +180,7 @@ How to identify and fix incorrect net connections
 
 
 
-
+(Add screenshots of schematic and PCB.)
 
 
 
@@ -225,7 +220,7 @@ Mathematics
 
 Algebra II
 Geometry
-
+(Add future classes like Trigonometry, Precalculus once completed.)
 
 
 
@@ -257,7 +252,7 @@ Certificates
 
 
 
-
+(Add engineering-related certificates only: electronics courses, Python courses, Khan Academy physics mastery, etc.)
 
 
 
@@ -281,11 +276,14 @@ Examples:
 
 
 
+Incorrect LED polarity identified by tracing schematic → fixed orientation and routing.
+Resistor network wired incorrectly → reviewed datasheet → rewired channels.
+Switch footprint confusion → tested with continuity → updated schematic pins.
 
 
 
 
-
+These logs demonstrate learning, iteration, and problem-solving.
 
 
 
@@ -322,8 +320,8 @@ Contact
 
 
 
-GitHub: (JS2028EE)
+GitHub: (your username)
 
-Email: (jhostins099@icloud.com)
+Email: (optional)
 
 Location: United States
